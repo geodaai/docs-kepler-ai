@@ -19,4 +19,4 @@ Coming soon! We're working on detailed guides to help you get started with the K
 
 ## Support
 
-If you have questions or need help, please visit our [GitHub repository](https://github.com/geodaai/docs-kepler-ai-assistant).
+If you have questions or need help, please visit our [GitHub repository](https://github.com/geodaai/docs-kepler-ai).

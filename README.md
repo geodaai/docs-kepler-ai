@@ -1,4 +1,4 @@
-# docs-kepler-ai-assistant
+# docs-kepler-ai
 
 The documentation of Spatial Data Analysis with Kepler.gl AI Assistant
 
