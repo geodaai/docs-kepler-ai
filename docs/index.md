@@ -2,8 +2,8 @@
 layout: home
 
 hero:
-  name: "Kepler.gl AI Assistant"
-  text: "Spatial Data Analysis Made Easy"
+  name: "Spatial Data Analysis with Kepler.gl AI Assistant"
+  text: ""
   tagline: The documentation of Spatial Data Analysis with Kepler.gl AI Assistant
   actions:
     - theme: brand
