@@ -11,7 +11,7 @@ hero:
       link: /guide
     - theme: alt
       text: View on GitHub
-      link: https://github.com/geodaai/docs-kepler-ai-assistant
+      link: https://github.com/geodaai/docs-kepler-ai
 
 features:
   - title: AI-Powered Analysis
