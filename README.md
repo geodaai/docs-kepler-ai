@@ -9,7 +9,8 @@ This documentation is built with [VitePress](https://vitepress.dev/), a modern s
 ### Prerequisites
 
 - Node.js 18 or higher
-- npm or yarn
+
+Install: https://nodejs.org/en/download
 
 ### Installation
 
